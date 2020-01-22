@@ -32,3 +32,176 @@
   "w16 w16 w16 w16 w16 w16 w16 w16 y4 y4 r5 r5 r5 r5 .  .  .  .  .  .  .  .  .  w15 w15 w15 w15 w15 w15 w15 w15 w15"
   "w16 w16 w16 w16 w16 w16 w16 w16 y4 y4 r5 r5 r5 r5 .  .  .  .  .  .  .  .  .  w15 w15 w15 w15 w15 w15 w15 w15 w15";   
 }
+
+/*-------------------------------------*/
+/*---------------Areas-----------------*/
+/*-------------------------------------*/
+/*Items Blanc*/
+#item1 {
+  grid-area: w1;
+}
+
+#item2 {
+  grid-area: w2;
+}
+
+#item3 {
+  grid-area: w3;
+}
+
+#item4 {
+  grid-area: w4;
+}
+
+#item5 {
+  grid-area: w5;
+}
+
+#item6 {
+  grid-area: w6;
+}
+
+#item7 {
+  grid-area: w7;
+}
+
+#item8 {
+  grid-area: w8;
+}
+
+#item9 {
+  grid-area: w9;
+}
+
+#item10 {
+  grid-area: w10;
+}
+
+#item11 {
+  grid-area: w11;
+}
+
+#item12 {
+  grid-area: w12;
+}
+
+#item13 {
+  grid-area: w13;
+}
+
+#item14 {
+  grid-area: w14;
+}
+
+#item15 {
+  grid-area: w15;
+}
+
+#item16 {
+  grid-area: w16;
+}
+
+#item17 {
+  grid-area: b1;
+}
+
+/*Items Bleu*/
+#item18 {
+  grid-area: b2;
+}
+
+#item19 {
+  grid-area: b3;
+}
+
+#item20 {
+  grid-area: b4;
+}
+
+/*Items Jaune*/
+#item21 {
+  grid-area: y1;
+}
+
+#item22 {
+  grid-area: y2;
+}
+
+#item23 {
+  grid-area: y3;
+}
+
+#item24 {
+  grid-area: y4;
+}
+
+#item25 {
+  grid-area: y5;
+}
+
+/*Items Rouge*/
+#item26 {
+  grid-area: r1;
+}
+
+#item27 {
+  grid-area: r2;
+}
+
+#item28 {
+  grid-area: r3;
+}
+
+#item29 {
+  grid-area: r4;
+}
+
+#item30 {
+  grid-area: r5;
+}
+
+/*-------------------------------------*/
+/*---------------Color-----------------*/
+/*-------------------------------------*/
+#item1,
+#item2,
+#item3,
+#item4,
+#item5,
+#item6,
+#item7,
+#item8,
+#item9
+#item10,
+#item11,
+#item12,
+#item13,
+#item14,
+#item15,
+#item16
+ {
+  background: whitesmoke;
+}
+
+#item17,
+#item18,
+#item19,
+#item20 {
+  background: rgb(31, 10, 219);
+}
+
+#item21,
+#item22,
+#item23,
+#item24,
+#item25 {
+  background: rgb(247, 211, 6);
+}
+
+#item26,
+#item27,
+#item28,
+#item29,
+#item30 {
+  background: red;
+}
